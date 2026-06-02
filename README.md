@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mohamed Aar 👋
 
-<!--
-**Aarka8888/Aarka8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Computer Science Student at University of the People
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Cybersecurity
+- Software Development
+- Networking
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Somalia
+
+## Currently Learning
+- Python Programming
+- Git & GitHub
+- Linux Fundamentals
+- Computer Networking
+
+## Goals for 2026
+- Complete my Computer Science studies
+- Build real-world projects
+- Earn Cybersecurity certifications
+- Become a professional IT specialist
+
+## My Projects
+- Python Calculator
+- Future Password Generator
+- Future Personal Website
+- Future Cybersecurity Labs
+
+## Contact
+GitHub: Aarka8888
